@@ -22,7 +22,7 @@ Ejecución:
 
 ## Habilidades aprendidas
 
-- Uso de bucles (while)
+- Uso de bucles (`while`)
 - Validacion de entradas del usuario
 - Control de flujo con condiciones
 - Logica de juego por consola
