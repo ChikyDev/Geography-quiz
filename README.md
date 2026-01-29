@@ -10,15 +10,15 @@ Requisitos:
 - Python 3
 
 Ejecución:
-1. Buscar simbolo del sistema / cmd
+1. Abrir el símbolo del sistema (cmd)
 2. Buscar la carpeta donde se haya guardado el archivo
-3. Ejecutar el programa con python3
-4. python3 geography_quiz.py
+3. Ejecutar el programa con python 3
+4. python3 mini_juego.py
 
 ## Tecnologías usadas
 
--Python 3
-- Librería random
+- Python 3
+- Librería sys
 
 ## Habilidades aprendidas
 
